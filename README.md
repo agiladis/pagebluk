@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ini adalah repo untuk membuat aplikasi data covid-19 berbasis web
+
 <!--
 **agiladis/agiladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
